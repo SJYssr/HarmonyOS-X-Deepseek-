@@ -5,22 +5,33 @@
 - **聊天界面**:
 
 *正常聊天界面*
+
 ![img](https://github.com/SJYssr/img/raw/main/HarmonyOS%20X%20Deepseek/%E6%AD%A3%E5%B8%B8%E8%81%8A%E5%A4%A9%E7%95%8C%E9%9D%A2.png)
+
 *深色聊天界面*
+
 ![img](https://github.com/SJYssr/img/raw/main/HarmonyOS%20X%20Deepseek/%E6%B7%B1%E8%89%B2%E8%81%8A%E5%A4%A9%E7%95%8C%E9%9D%A2.png)
 
 - **设置界面**:
 
 *正常设置界面*
+
 ![img](https://github.com/SJYssr/img/raw/main/HarmonyOS%20X%20Deepseek/%E6%AD%A3%E5%B8%B8%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2.png)
+
 *深色设置界面*
+
 ![img](https://github.com/SJYssr/img/raw/main/HarmonyOS%20X%20Deepseek/%E6%B7%B1%E8%89%B2%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2.png)
+
 - **效果预览**:
 
 *正常回答效果*
+
 ![img](https://github.com/SJYssr/img/raw/main/HarmonyOS%20X%20Deepseek/%E6%AD%A3%E5%B8%B8%E5%9B%9E%E7%AD%94%E6%95%88%E6%9E%9C.png)
+
 *深色回答效果*
+
 ![img](https://github.com/SJYssr/img/raw/main/HarmonyOS%20X%20Deepseek/%E6%B7%B1%E8%89%B2%E5%9B%9E%E7%AD%94%E6%95%88%E6%9E%9C.png)
+
 ### 功能特性
 - **聊天对话**: 发送消息并获取 DeepSeek 模型回复，支持逐字打字机动画展示。
 - **模型切换**: 在设置中切换 `deepseek-chat` 与 `deepseek-reasoner` 模型。
