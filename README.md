@@ -76,7 +76,7 @@ oh-package.json5 / entry/oh-package.json5
 
 ### 快速开始
 1) 打开工程
-- 使用 DevEco Studio 打开项目根目录 `MyApplication1`。
+- 使用 DevEco Studio 打开项目根目录 `HarmonyOS-X-Deepseek-`。
 
 2) 连接设备/模拟器
 - 连接 HarmonyOS 设备或启动模拟器（需与 SDK 版本匹配）。
