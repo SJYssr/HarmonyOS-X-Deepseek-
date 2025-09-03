@@ -1,0 +1,14 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    { "name": "background", "value": "#000000" },
+    { "name": "text_primary", "value": "#FFFFFF" },
+    { "name": "bubble_user", "value": "#153E75" },
+    { "name": "bubble_ai", "value": "#133A1A" },
+    { "name": "divider", "value": "#1F2937" },
+    { "name": "status_bar", "value": "#000000" }
+  ]
+}
